@@ -2,4 +2,7 @@ Rencana Konten
 - Berkebun
   * hydroponik
   * Sayur
+- kopi shop
 - berternak
+  * ayam
+  * ikan lele
