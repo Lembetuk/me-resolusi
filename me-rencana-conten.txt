@@ -4,3 +4,5 @@ Rencana Konten
 - DIY
 - kopi shop
 - berternak
+  * ayam
+  * ikan lele
