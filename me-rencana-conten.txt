@@ -1,7 +1,7 @@
 Rencana Konten
 - Berkebun
   * hydroponik
-- DIY
+  * Sayur
 - kopi shop
 - berternak
   * ayam
